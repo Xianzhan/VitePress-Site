@@ -20,5 +20,8 @@
   "bugs": {
     "url": "https://github.com/Xianzhan/VitePress-Site/issues"
   },
-  "homepage": "https://github.com/Xianzhan/VitePress-Site#readme"
+  "homepage": "https://github.com/Xianzhan/VitePress-Site#readme",
+  "devDependencies": {
+    "vitepress": "^1.6.3"
+  }
 }
